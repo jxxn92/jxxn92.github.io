@@ -1,3 +1,21 @@
+---
+layout: post
+title: "이건 언제 적은거지?"
+writer: Jxxn
+excerpt: "언제 적었는지 모르겠는 포스트"
+categories:
+  - test
+tags:
+  - [Jxxn]
+toc: true
+toc_sticky: true
+date: 2024-04-18 01:00:00 +0900
+last_modified_at: 2024-04-18 01:30:00 +0900
+# published: false
+# true : 공개
+# false : 비공개
+---
+
 # 1
 
 ## 2
